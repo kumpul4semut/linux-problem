@@ -1,0 +1,4 @@
+error alt + prtsc linux mint
+fixed:
+$ sudo ln -s  /usr/bin/gnome-screenshot /usr/bin/mate-screenshot
+$ sudo apt-get install gnome-screenshot
