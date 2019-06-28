@@ -16,3 +16,6 @@ contoh: chmod 777 index.php
 
 chwon untuk akses group dan user
 contoh: chwon nobody:root index.php
+
+#open folder on terminal command
+nautilus folder1
