@@ -9,13 +9,13 @@ $ reboot
 
 make pip packet is PYPI
 
-#chmod and chwon
+#chmod and chown
 
 chmod untuk hak akses 
 contoh: chmod 777 index.php
 
-chwon untuk akses group dan user
-contoh: chwon nobody:root index.php
+chown untuk akses group dan user
+contoh: chown nobody:root index.php
 
 #open folder on terminal command
 nautilus folder1
