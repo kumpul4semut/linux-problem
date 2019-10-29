@@ -33,3 +33,29 @@ nautilus folder1
 $ sudo apt-get install ffmpeg
 $ ffmpeg -y -i input.mp4 -c:v libx264 -c:a aac -strict experimental -tune fastdecode -pix_fmt yuv420p -b:a 192k -ar 48000 output_file.mp4
 ```
+
+# bongkar source code apk
+```
+bongkar source android
+
+========
+apktool d name.apk
+
+;;;;
+atau
+;;;;
+
+ubah name.apak -> name.zip ->extract
+========
+
+=======
+dex2jar classes.dex
+
+;;;;
+atau
+;;;;
+
+d2j-dex2jar.sh classes.dex
+=======
+
+```
